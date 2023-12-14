@@ -10,3 +10,6 @@ height: 60vh;
     ),
     url("./Assets/images/cover.jpg");
 }
+img{
+  object-fit: cover;
+}
